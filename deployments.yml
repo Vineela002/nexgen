@@ -19,3 +19,6 @@ spec:
         image: kammana/myweb:"$(version)"
         ports:
         - containerPort: 8080
+        name: mydevelopment
+        selector
+        
